@@ -1,4 +1,4 @@
-# SystemDesignInterviews
+# System Design Interviews
 
 This is a collection of pointers to the good system design interview blog posts:
 
