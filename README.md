@@ -11,3 +11,4 @@ This is a collection of pointers to the good system design interview blog posts:
 *  [Mini Twitter](https://eileen-code4fun.medium.com/system-design-interview-mini-twitter-1e0e99bd7377)
 *  [Globally Unique ID Generation](https://eileen-code4fun.medium.com/system-design-interview-globally-unique-id-generation-25359500573)
 *  [The Bare Minimum You Need to Know about Load Balancers](https://medium.com/swlh/system-design-interview-the-bare-minimum-you-need-to-know-about-load-balancers-fc0cbe1ac276)
+*  [Server Monitoring System](https://medium.com/better-programming/a-tricky-system-design-interview-question-explain-server-monitoring-c5be0ce54a30)
