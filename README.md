@@ -14,3 +14,4 @@ This is a collection of pointers to the good system design interview blog posts:
 *  [Server Monitoring System](https://medium.com/better-programming/a-tricky-system-design-interview-question-explain-server-monitoring-c5be0ce54a30)
 *  [Distributed Top K Frequent Elements in Stream](https://levelup.gitconnected.com/system-design-interview-distributed-top-k-frequent-elements-in-stream-2e92d63d777e)
 *  [6 Things You Need to Know About Kafka Before Using it in a System Design Interview](https://levelup.gitconnected.com/6-things-you-need-to-know-about-kafka-before-using-it-in-a-system-design-interview-1fc31451732c)
+*  [Replicated and Strongly Consistent Key-value Store](https://levelup.gitconnected.com/system-design-interview-replicated-and-strongly-consistent-key-value-store-b690d8e15c9a)
