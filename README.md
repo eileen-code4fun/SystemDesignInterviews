@@ -18,3 +18,4 @@ This is a collection of pointers to the good system design interview blog posts:
 1.  [All or None, Ordered Peer-to-Peer Broadcast](https://levelup.gitconnected.com/system-design-interview-all-or-none-ordered-peer-to-peer-broadcast-45b33fb2f6be)
 1.  [The Bare Minimum You Need to Know about String Encoding](https://levelup.gitconnected.com/system-design-interview-the-bare-minimum-you-need-to-know-about-string-encoding-6d57ce139942)
 1.  [The System Design Ideas Behind Advanced Search Functions](https://levelup.gitconnected.com/the-system-design-ideas-behind-advanced-search-functions-fa9c7d9010a3)
+1.  [System Design Idea: Consistently Route Request Cohort to the Same Server in Production](https://levelup.gitconnected.com/system-design-idea-consistently-route-request-cohort-to-the-same-server-in-production-a2c7edfd16f6)
